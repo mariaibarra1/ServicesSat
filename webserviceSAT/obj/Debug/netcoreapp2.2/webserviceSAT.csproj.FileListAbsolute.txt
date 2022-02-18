@@ -1,0 +1,11 @@
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\bin\Debug\netcoreapp2.2\webserviceSAT.deps.json
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\bin\Debug\netcoreapp2.2\webserviceSAT.runtimeconfig.json
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\bin\Debug\netcoreapp2.2\webserviceSAT.runtimeconfig.dev.json
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\bin\Debug\netcoreapp2.2\webserviceSAT.dll
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\bin\Debug\netcoreapp2.2\webserviceSAT.pdb
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\obj\Debug\netcoreapp2.2\webserviceSAT.csprojAssemblyReference.cache
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\obj\Debug\netcoreapp2.2\webserviceSAT.csproj.CoreCompileInputs.cache
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\obj\Debug\netcoreapp2.2\webserviceSAT.AssemblyInfoInputs.cache
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\obj\Debug\netcoreapp2.2\webserviceSAT.AssemblyInfo.cs
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\obj\Debug\netcoreapp2.2\webserviceSAT.dll
+C:\Users\lunat\source\repos\webserviceSAT\webserviceSAT\obj\Debug\netcoreapp2.2\webserviceSAT.pdb
